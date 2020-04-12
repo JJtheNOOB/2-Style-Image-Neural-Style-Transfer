@@ -14,4 +14,6 @@
 |:--:| :--:|
 | *Style Image 2* | *Resulting Image* |
 
+Credit to: Me and Toby Chan
+
 
