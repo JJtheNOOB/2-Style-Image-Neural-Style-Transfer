@@ -5,23 +5,13 @@
 
 - __Example__: 
 
-| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/cat.jpg" width="350" height="300"> |
-|:--:| 
-| *Content Image* |
+| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/cat.jpg" width="350" height="300"> | <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/mellow.jpg" width="350" height="300"> |
+|:--:| :--:|
+| *Content Image* | *Style Image 1* |
 
 
-| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/mellow.jpg" width="350" height="300"> |
-|:--:| 
-| *Style Image 1* |
-
-
-| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/pencil_style.jpg" width="350" height="300"> |
-|:--:| 
-| *Style Image 2* |
-
-
-| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/Adam_MAE.jpg" width="350" height="300"> |
-|:--:| 
-| *Resulting Image* |
+| <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/pencil_style.jpg" width="350" height="300"> | <img src="https://github.com/JJtheNOOB/2-Style-Image-Neural-Style-Transfer/blob/master/images/Adam_MAE.jpg" width="350" height="300"> |
+|:--:| :--:|
+| *Style Image 2* | *Resulting Image* |
 
 
